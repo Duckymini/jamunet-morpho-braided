@@ -4,7 +4,7 @@
 
 📄 **[Predicting the morphological changes of braided sand-bed
 rivers with deep learning](./paper_ml2.pdf)**
-Pierre Bernadet, Alexandre Potocnik, Julie Michallat — Group 44, EE-559: Deep Learning, 2026.
+Pierre Bernadet, Alexandre Potocnik, Armelle Chritin
 
 <table>
   <tr>
