@@ -1,5 +1,11 @@
 # JamUNet: predicting the morphological changes of braided sand-bed rivers with deep learning
 
+## Paper
+
+📄 **[Predicting the morphological changes of braided sand-bed
+rivers with deep learning](./Detect_and_Explain_RAC_and_LLM_Explainability.pdf)**
+Pierre Bernadet, Alexandre Potocnik, Julie Michallat — Group 44, EE-559: Deep Learning, 2026.
+
 <table>
   <tr>
     <td>
